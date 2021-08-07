@@ -1,7 +1,12 @@
 import React from "react";
+import TopHeader from "./components/TopHeader";
 
 const App = () => {
-  return <div>hello from app</div>;
+  return (
+    <>
+      <TopHeader />
+    </>
+  );
 };
 
 export default App;
