@@ -37,6 +37,23 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.services a {
+  text-decoration: none;
+  color: var(--mainBlack);
+  transition: var(--mainTransition);
+}
+.services a:hover {
+  text-decoration: underline;
+  color: brown;
+}
+
+.underline {
+  width: 16rem;
+  margin: 0 auto;
+  height: 1px;
+  background-color: brown;
+  padding-top: 0.2rem;
+}
 
 /* @media (max-width: 860px) {
   .logo {

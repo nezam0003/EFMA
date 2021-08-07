@@ -7,14 +7,14 @@ const Notes = () => {
         <div className="container border-bottom border-1 border-danger pb-3">
           <div className="row">
             <div className="col mx-auto">
-              <p className="text-justify">
+              <p className="text-start ">
                 <span className="text-uppercase fw-bold">note 1:</span>
                 Given the extraordinary times due to the Covid-19 pandemic, and
                 our commitment to the well-being of all participants, this year
                 EFMA has taken the decision for the annual meeting to be an
                 online conference.
               </p>
-              <p className="text-justify">
+              <p className="text-start ">
                 <span className="text-uppercase fw-bold">note 2:</span> EFMA
                 will take place online using the Pathable virtual conference
                 platform. Along with hosting the conference sessions, Pathable
@@ -26,7 +26,7 @@ const Notes = () => {
                 <span className="text-uppercase fw-bold">note 3:</span>
                 Notifications on behalf of EFMA:
               </p>
-              <p className="fst-italic text-justify">
+              <p className="fst-italic text-start ">
                 1. The EFMA 2021 Conference, as it has been already announced on
                 its website (www.efmaefm.org), will take place in a “virtual”
                 environment and will be presented and recorded via the secure
@@ -35,7 +35,7 @@ const Notes = () => {
                 https://pathable.com/privacy-policy/. We will forward details of
                 how to access Pathable nearer to the event.
               </p>
-              <p className="fst-italic text-justify">
+              <p className="fst-italic text-start ">
                 2. EFMA2021 registered delegates are responsible for ensuring
                 that they have all necessary rights to allow any material or
                 performance they contribute to the EFMA conference (whether
@@ -51,7 +51,7 @@ const Notes = () => {
                 nor EFMA will be liable for any infringement of rights by
                 delegates or others.
               </p>
-              <p className="fst-italic text-justify">
+              <p className="fst-italic text-start ">
                 3.EFMA may take images of online presentations and post papers
                 presented at the conference on the EFMA website in accord with
                 its 30 year policy. All such activity shall be the sole
